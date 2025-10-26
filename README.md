@@ -7,7 +7,7 @@ In today’s digital world, people frequently move across cities for work, educa
 - 🔎 Search for any city
 - 🗺️ View interactive maps (via **Mapbox API**)
 - 🌤️ Access real-time weather updates (via **OpenWeather API**)
-- 📍 Explore key city details like timezone, population, and more
+- 📍 Explore key city details like Map, Weather, and more
 
 Built with **React.js**, it offers a responsive and user-friendly interface for dynamic city exploration.
 
